@@ -1,0 +1,13 @@
+E:\visual\BaiQuanLyBanHang\BaiQuanLyBanHang\bin\Debug\BaiQuanLyBanHang.exe.config
+E:\visual\BaiQuanLyBanHang\BaiQuanLyBanHang\bin\Debug\BaiQuanLyBanHang.exe
+E:\visual\BaiQuanLyBanHang\BaiQuanLyBanHang\bin\Debug\BaiQuanLyBanHang.pdb
+E:\visual\BaiQuanLyBanHang\BaiQuanLyBanHang\obj\Debug\BaiQuanLyBanHang.csprojAssemblyReference.cache
+E:\visual\BaiQuanLyBanHang\BaiQuanLyBanHang\obj\Debug\BaiQuanLyBanHang.fHome.resources
+E:\visual\BaiQuanLyBanHang\BaiQuanLyBanHang\obj\Debug\BaiQuanLyBanHang.Properties.Resources.resources
+E:\visual\BaiQuanLyBanHang\BaiQuanLyBanHang\obj\Debug\BaiQuanLyBanHang.csproj.GenerateResource.cache
+E:\visual\BaiQuanLyBanHang\BaiQuanLyBanHang\obj\Debug\BaiQuanLyBanHang.csproj.CoreCompileInputs.cache
+E:\visual\BaiQuanLyBanHang\BaiQuanLyBanHang\obj\Debug\BaiQuanLyBanHang.exe
+E:\visual\BaiQuanLyBanHang\BaiQuanLyBanHang\obj\Debug\BaiQuanLyBanHang.pdb
+E:\visual\BaiQuanLyBanHang\BaiQuanLyBanHang\obj\Debug\BaiQuanLyBanHang.Form2.resources
+E:\visual\BaiQuanLyBanHang\BaiQuanLyBanHang\obj\Debug\BaiQuanLyBanHang.Menucs.resources
+E:\visual\BaiQuanLyBanHang\BaiQuanLyBanHang\obj\Debug\BaiQuanLyBanHang.TaiKhoan.resources
